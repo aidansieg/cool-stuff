@@ -1,5 +1,4 @@
-# Aidan Siegel and Maya Akiki
-# CS 21 Final Project
+# Aidan Siegel
 # Program is a college search program that allows user to create login, search colleges through user inputs, and add colleges to a favorites list
 
 # main calls college_dict that holds the dictionary containing all of the colleges, states, and sizes. Aidan coded the parts of the program that read through the files and put the dictionary values in list, the error handling for user input, and the loop that prints the colleges and the favorites list. Maya coded the lines for user input and excpetion handling.
